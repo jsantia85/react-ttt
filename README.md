@@ -2,7 +2,7 @@
 The following React application is React Tic-Tac-Toe! 
 # ![Landing Page](public/imgs/React-TTT.png)
 ## Getting Started:
-The following is the link to the deployed app.
+The following is the link to the deployed [app](https://js-react-ttt.netlify.app/).
 
 ## Technologies Used:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
