@@ -1,6 +1,6 @@
 # React-ttt
 The following React application is React Tic-Tac-Toe! 
-# ![Landing Page](imgs/React-TTT.png)
+# ![Landing Page](public/imgs/React-TTT.png)
 ## Getting Started:
 The following is the link to the deployed app.
 
