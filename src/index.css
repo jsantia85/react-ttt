@@ -46,7 +46,7 @@ ol, ul {
 .game {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  justify-content: center;
 }
 
 .game-info {
@@ -57,4 +57,8 @@ ol, ul {
   background-color: #C38D9E;
   border-radius: 1rem;
   border: .5rem solid balck;
+}
+
+.title {
+  text-align: center;
 }
