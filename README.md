@@ -1,4 +1,4 @@
-# React-ttt
+# React Tic-Tac-Toe
 The following React application is React Tic-Tac-Toe! 
 # ![Landing Page](public/imgs/React-TTT.png)
 ## Getting Started:
