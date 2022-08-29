@@ -14,7 +14,7 @@ The following is the link to the deployed [app](https://js-react-ttt.netlify.app
 
 ## Credits
 - (Favicon) <a href="https://www.flaticon.com/free-icons/tic-tac-toe" title="tic tac toe icons">Tic tac toe icons created by Freepik - Flaticon</a>
-- (React Tutorial) <a href="https://reactjs.org/tutorial/tutorial.html" title="tic tac toe icons">Reactjs.org</a>
+- (React Tutorial) <a href="https://reactjs.org/tutorial/tutorial.html" title="React Tutorial">Reactjs.org</a>
 
 ## Next Steps
 - Display the location for each move in the format (col, row) in the move history list.
